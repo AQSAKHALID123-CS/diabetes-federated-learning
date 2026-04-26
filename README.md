@@ -15,7 +15,8 @@ This project implements a federated learning-based approach for diabetes predict
 
 ## Dataset
 - PIMA Indian Diabetes Dataset
-- Additional dataset (if used)
+- Diabetese dataset
+- Diabetese dataset with clinical notes
 
 ## Results
 - Accuracy comparison
